@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YBrsw0eBV8KJTZkvpanUhzvuK+gP+H7H3LvdHPtWhtrAURjEbTfWAQxcZcr68ZFpbcEh8EVMgpcdEXsX64zo1g==",
+  "dgSpecHash": "Jl/sSFEzPPX+BUa4LKNLvWQTTkofxHTYIJk5K/zJKvnFPRNfssTc8qFSNk56UqvEbekC8KUenlFmdJHdGU2SHw==",
   "success": true,
-  "projectFilePath": "C:\\dev\\dotnet\\buber-rest-api\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
+  "projectFilePath": "C:\\dev\\Dotnet\\buber-rest-api\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

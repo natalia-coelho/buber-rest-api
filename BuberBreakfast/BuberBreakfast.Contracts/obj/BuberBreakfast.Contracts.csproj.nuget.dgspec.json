@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\dotnet\\buber-rest-api\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {}
+    "C:\\dev\\Dotnet\\buber-rest-api\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {}
   },
   "projects": {
-    "C:\\dev\\dotnet\\buber-rest-api\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {
+    "C:\\dev\\Dotnet\\buber-rest-api\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\dotnet\\buber-rest-api\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
+        "projectUniqueName": "C:\\dev\\Dotnet\\buber-rest-api\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
         "projectName": "BuberBreakfast.Contracts",
-        "projectPath": "C:\\dev\\dotnet\\buber-rest-api\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
+        "projectPath": "C:\\dev\\Dotnet\\buber-rest-api\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
         "packagesPath": "C:\\Users\\natal\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\dotnet\\buber-rest-api\\BuberBreakfast\\BuberBreakfast.Contracts\\obj\\",
+        "outputPath": "C:\\dev\\Dotnet\\buber-rest-api\\BuberBreakfast\\BuberBreakfast.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\natal\\AppData\\Roaming\\NuGet\\NuGet.Config"
