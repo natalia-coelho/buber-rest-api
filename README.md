@@ -15,4 +15,4 @@ There are 2 differents projects:
 1. CRUD REST API
 2. Best Practices
 3. Functional Programming
-4. Domain-Driven Design Princigiples
+4. Domain-Driven Design Principles
